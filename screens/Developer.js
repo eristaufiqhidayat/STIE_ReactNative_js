@@ -20,7 +20,7 @@ const Developer = () => {
                         <Text style={styles.infoText}>eristaufiq@gmail.com</Text>
                     </View>
                     <View style={styles.infoContainer}>
-                        <Text style={styles.infoLabel}>Telepon :</Text>
+                        <Text style={styles.infoLabel}>Mobile Phone :</Text>
                         <Text style={styles.infoText}>+628118684222</Text>
                     </View>
                 </View>
