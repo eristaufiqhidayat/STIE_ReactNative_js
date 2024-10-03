@@ -71,17 +71,17 @@ const HomeScreen = ({ navigation }) => {
                 />
             </View>
 
-            <View style={{
+            {/* <View style={{
                 flex: 0, backgroundColor: 'white', borderRadius: 10,
                 borderWidth: 1, padding: 10
             }} >
-                <Text>Yayasan Pendidikan Fatahillah Jakarta sejak tahun 1969</Text>
-                {/* <Button
+                <Text>Yayasan Pendidikan Fatahillah Jakarta sejak tahun 1969</Text> */}
+            {/* <Button
                 title="Go to About Screen"
                 onPress={() => navigation.navigate("About")} // We added an onPress event which would navigate to the About screen
             /> */}
-            </View>
-        </View >
+        </View>
+        // </View >
     );
 };
 
